@@ -1,6 +1,6 @@
 # Profeta Saru
-*Frontend Developer*
-*Based of Brazil*
+* Frontend Developer *
+* Based of Brazil *
 **Contact Information:**
 - **Email**: fernandosantoscc11278@gmail.com
 - **Whatsapp**: +55 11 94178-6699
