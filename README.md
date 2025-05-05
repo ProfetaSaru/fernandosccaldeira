@@ -2,8 +2,9 @@
 
 📍 Rua Teodoro Sampaio, 2112 – São Paulo, SP – 05415-000  
 📞 (11) 96688-2834  
-✉️ fernandosantoscc@gmail.com  
+✉️ fernandosantoscc11278@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/fernando-caldeira-920a8a301/)
+🔗 [Github](https://github.com/ProfetaSaru/fernandosccaldeira)
 
 ---
 
